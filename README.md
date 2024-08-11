@@ -1,2 +1,2 @@
 # BasicArtifacts
-Artefactos Basicos Repo
+Artefactos Básicos Repo
