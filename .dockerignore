@@ -1,1 +1,12 @@
-# Poner aquí las practicas de dockerignore
+README.md
+.git/
+*.md
+temp/
+tmp/
+coverage/*
+*.lcov
+dependecy-check/
+deployment/
+azure-pipelines*.yml
+test/
+src/test/
