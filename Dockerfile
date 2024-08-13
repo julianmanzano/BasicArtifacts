@@ -9,7 +9,7 @@ EXPOSE 8080
 USER user
 CMD [ "npm", "run", "preview" ]
 
-# Plantilla Base de Dockerfile según practicas Corona
+# Plantilla Base de Dockerfile según practicas
 # Guía: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 # Referencia comandos: https://docs.docker.com/reference/dockerfile/
 
